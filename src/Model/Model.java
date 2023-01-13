@@ -7,10 +7,16 @@ public class Model {
     }
 
     public void update() {
+        Object isAlive;
+
     }
 
     public Shape[] getShapes() {
-        Point[] points = {new Point(5,5)};
+        Point[] points = {new Point(25,25)};
         return (Shape[])points;
     }
+     if(world alive  ){
+
+    }
+
 }
